@@ -1,3 +1,5 @@
+Graph-based environmental analysis using Neo4j to model complex geospatial relationships.
+
 # 🌍 GeoAnalysis with Neo4j
 
 🇺🇸 English version below  
@@ -24,6 +26,23 @@ Model and analyze environmental data such as rural properties and protected area
 - Cypher (Query Language)
 - Python (in progress)
 - QGIS (geospatial support)
+
+  ## 🔍 Key Insights
+
+- Graph databases improve representation of spatial relationships  
+- Environmental data benefits from connected data modeling  
+- Neo4j enables complex queries that are difficult in relational databases
+
+  ## 💡 Why this project matters
+
+Environmental and geospatial data are inherently connected.  
+Traditional databases struggle to represent these relationships efficiently.  
+Graph databases provide a more natural and powerful way to analyze these connections.
+
+## 🧪 Example Query (Cypher)
+
+MATCH (p:Property)-[:HAS_APP]->(a:APP)
+RETURN p, a
 ---
 
 ## 🇧🇷 Visão Geral
