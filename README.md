@@ -1,6 +1,6 @@
-Graph-based environmental analysis using Neo4j to model complex geospatial relationships.
-
 # 🌍 GeoAnalysis with Neo4j
+
+Graph-based environmental analysis using Neo4j to model complex geospatial relationships.
 
 🇺🇸 English version below  
 🇧🇷 Versão em português abaixo  
@@ -43,6 +43,12 @@ Graph databases provide a more natural and powerful way to analyze these connect
 
 MATCH (p:Property)-[:HAS_APP]->(a:APP)
 RETURN p, a
+
+## 💡 Why Graph Databases?
+
+Environmental and geospatial data are highly interconnected.  
+Graph databases like Neo4j allow better representation and analysis of these relationships compared to relational databases.
+
 ---
 
 ## 🇧🇷 Visão Geral
