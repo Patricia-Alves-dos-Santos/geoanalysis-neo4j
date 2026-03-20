@@ -18,6 +18,12 @@ Model and analyze environmental data such as rural properties and protected area
 - Create analytical queries
 - Build a visual dashboard
 
+## 🛠️ Technologies
+
+- Neo4j (Graph Database)
+- Cypher (Query Language)
+- Python (in progress)
+- QGIS (geospatial support)
 ---
 
 ## 🇧🇷 Visão Geral
