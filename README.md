@@ -11,6 +11,13 @@ This project explores the use of graph databases (Neo4j) for environmental and g
 ## 🎯 Objective
 Model and analyze environmental data such as rural properties and protected areas (APP) using graph structures.
 
+## 📈 Next Steps
+
+- Integrate with Python
+- Use real environmental datasets
+- Create analytical queries
+- Build a visual dashboard
+
 ---
 
 ## 🇧🇷 Visão Geral
