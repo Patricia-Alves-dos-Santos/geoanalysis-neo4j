@@ -1,3 +1,24 @@
+# 🌍 GeoAnalysis with Neo4j
+
+🇺🇸 English version below  
+🇧🇷 Versão em português abaixo  
+
+---
+
+## 🇺🇸 Overview
+This project explores the use of graph databases (Neo4j) for environmental and geospatial analysis.
+
+## 🎯 Objective
+Model and analyze environmental data such as rural properties and protected areas (APP) using graph structures.
+
+---
+
+## 🇧🇷 Visão Geral
+Este projeto explora o uso de bancos de dados em grafos (Neo4j) para análise ambiental e geoespacial.
+
+## 🎯 Objetivo
+Modelar e analisar dados ambientais como imóveis rurais e áreas de preservação permanente (APP) utilizando grafos.
+
 # 👩‍💻 Patrícia Alves dos Santos
 
 🎯 Transição para área de Dados e Inteligência Artificial  
