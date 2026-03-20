@@ -13,6 +13,7 @@ This project explores the use of graph databases (Neo4j) for environmental and g
 ## 🎯 Objective
 Model and analyze environmental data such as rural properties and protected areas (APP) using graph structures.
 
+
 ## 📈 Next Steps
 
 - Integrate with Python
@@ -44,10 +45,21 @@ Graph databases provide a more natural and powerful way to analyze these connect
 MATCH (p:Property)-[:HAS_APP]->(a:APP)
 RETURN p, a
 
+### 🔎 Query 1: Identify Properties with APP Areas
+## 📊 Expected Results
+
+This analysis helps identify environmental compliance and spatial relationships between land elements.
+
 ## 💡 Why Graph Databases?
 
 Environmental and geospatial data are highly interconnected.  
 Graph databases like Neo4j allow better representation and analysis of these relationships compared to relational databases.
+
+## 🧱 Data Model (Concept)
+
+- Property
+- APP (Permanent Preservation Area)
+- Relationships: HAS_APP, NEAR, OVERLAPS
 
 ---
 
